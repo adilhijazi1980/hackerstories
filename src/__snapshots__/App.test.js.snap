@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Item renders snapshot 1`] = `
+<div>
+  <span>
+    <a
+      href="https://reactjs.org/"
+    >
+      React
+    </a>
+  </span>
+  <span>
+    Jordan Walke
+  </span>
+  <span>
+    3
+  </span>
+  <span>
+    4
+  </span>
+  <span>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Dismiss
+    </button>
+  </span>
+</div>
+`;
